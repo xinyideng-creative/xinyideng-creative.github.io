@@ -43,7 +43,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Ausgewählte Projekte
+      title: Portfolio
       username: admin
 
 ---

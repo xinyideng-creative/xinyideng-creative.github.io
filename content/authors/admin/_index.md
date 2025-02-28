@@ -72,16 +72,9 @@ work:
       - Layout und Publikationsgestaltung: Berichte, Broschüren, Magazine und Bücher (Canva, InDesign)
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
 
-      **Ausgewählte Projekte:**
-      - [PACT-Festival 2023](https://pact-tuebingen.de/)
-      - [Tübinger Kulturnacht 2024](https://www.kulturnetz-tuebingen.de/veranstaltungen/kulturnacht/)
-      - [Von-klein-AUF Festival 2024](https://www.vonkleinauf.org/festival/)
-      - [Kafka lächelt. Kafka- Festival 2024](https://kafka2024.de/programm/kafka-laechelt-kafka-festival-in-tuebingen-von-mai-bis-dezember-2024)
-      - [Alive. Eva Michielin](https://www.evamichielin.com/)
-      - [Jubiläumsausstellung 100 Jahre Ruth Eitle](https://www.frauenprojektezentrum.de/jubilaeumsausstellung-100-jahre-ruth-eitle/)
-      - [Body Voices](https://www.body-voices.org/)
-      - [#KuneFeatureFriday](https://www.instagram.com/explore/search/keyword/?q=%23kunefeaturefriday)
-      - [Hello Together](https://hellotogether.de/)
+    button:
+    text: '📂 Portfolio ansehen'
+    url: '#portfolio'
 
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
@@ -197,24 +190,25 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+## <a id="portfolio"></a>Mein Portfolio
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Kulturnacht Tübingen 2024
+    url: https://www.kulturnetz-tuebingen.de/veranstaltungen/kulturnacht/
+    date: '2024-05-11'
+    awarder: Festival
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      Die Kulturnacht Tübingen ist als umfassende9. Kulturnacht fand am 11. Mai 2024 statt und bot mit 153 Programmpunkten an verschiedenen Orten in der gesamten Stadt ein vielfältiges kulturelles und künstlerisches Angebot. Über 100 Künstler:innen präsentierten ein breites Spektrum an Kunstformen – von Tanz, Theater und Musik über Kunstausstellungen, Installationen und Performances bis hin zu interdisziplinären Formaten.
+      Im Rahmen der Veranstaltung übernahm ich eigenverantwortlich die redaktionelle und inhaltliche Koordination aller Programmpunkte sowie die Pflege der Veranstaltungswebsite. Zudem war ich als erste Ansprechperson für die gesamte Organisation der Veranstaltungen im Adolf-Schlatter-Haus zuständig. Darüber hinaus war ich in die Bereiche Presse- und Öffentlichkeitsarbeit, Social Media Management (Instagram: @kulturnachttuebingen, Facebook: Kulturnacht Tübingen), Grafikdesign, Aufbau, Dokumentation sowie die Abrechnung eingebunden.
+  - title: Von klein AUF Festival 2024
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    date: '2024-03-08'
+    awarder: Festival
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Das vierte Von klein AUF Festival fand vom 8. bis 21. März 2024 statt und brachte ein vielfältiges Programm aus Theater und Tanz für die Allerkleinsten (0–6 Jahre) sowie ihre Familien, Erzieher:innen und Freund:innen in Theater, Kulturzentren und Kitas in Tübingen, Reutlingen und Rottenburg. Das Festival ermöglichte Kindern einen spielerischen Zugang zur darstellenden Kunst, inspirierte Erwachsene in ihrer Begleitung und schuf Räume für Kreativität und Austausch.
+      Im Rahmen des Festivals übernahm ich das Künstler:innenmanagement, koordinierte den Austausch mit nationalen und internationalen Gästen aus der Schweiz, Polen, Österreich, Dänemark und Nigeria und war für die Planung und Betreuung der Veranstaltungen mitverantwortlich. Zudem kümmerte ich mich um die Presse- und Öffentlichkeitsarbeit, verwaltete die Inhalte der Festival-Website und betreute das Social Media Management auf Instagram (@vonkleinauf_tanzundtheater) und Facebook (Von klein AUF).
+      Darüber hinaus war ich in den Ticketverkauf eingebunden, unterstützte die Organisation des Rahmenprogramms mit Workshops, auch für Erwachsene, und wirkte an der Drittmittelakquise mit. Mit meiner Arbeit trug ich dazu bei, das Festival in seiner Reichweite zu stärken, neue Zielgruppen zu erschließen und eine nachhaltige Plattform für frühkindliche Kunstvermittlung zu schaffen.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
