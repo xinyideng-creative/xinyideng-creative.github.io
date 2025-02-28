@@ -42,9 +42,10 @@ sections:
       title: Sprachkenntnisse
       username: admin
   - block: awards
+    id: portfolio
     content:
       title: Portfolio
       username: admin
-    id: portfolio
+    
 
 ---
