@@ -73,7 +73,7 @@ work:
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
     button:
      text: 'Portfolio'
-    url: '{{< relref "#Awards" >}}'
+     url: '{{< relref "#Awards" >}}'
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
     company_url: https://www.trip.com/travel-guide/attraction/chongqing/chongqing-guotai-art-center-15053344/
