@@ -43,10 +43,11 @@ education:
     date_start: 2018-10-01
     date_end: 2025-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      (Beurlaubung wegen Krankheit in 2020 und 2022)
+      Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Papers'
+      url: 'https://uni-tuebingen.academia.edu/xinyideng'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -58,40 +59,95 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area:  B.A. Germanistik
+    institution:  Beijing Foreign Studies University
+    date_start: 2015-01-01
+    date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN DE-EN), Linguistik, Interkulturelle Kommunikation
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position:  Werkstudentin und Praktikum Kultur Management & Public Relations
+    company_name: KuneArts
+    company_url: https://kunearts.com/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Kommunikation und PR: Entwicklung und Umsetzung von Kommunikationsstrategien, Medien- und Pressearbeit, Kampagnenplanung
+      - Veranstaltungsmanagement: Konzeption, Planung und Durchführung von Festivals, Ausstellungen und Kulturprojekten inkl. Logistik, Ablaufkoordination, Personalplanung, Gästebetreuung sowie Dokumentation und Nachbereitung
+      - Social Media Management: Strategie, Content-Erstellung und Betreuung (Instagram, Facebook, TikTok, X)
+      - Redaktion und Lektorat: Verfassen, Korrektur und Optimierung kunsthistorischer und PR-Texte
+      - Netzwerk und Sponsoring: Akquise und Pflege von Sponsoren sowie Kooperationspartnern
+      - Medienproduktion: Foto, Video, Bild und Audio (Canva, CapCut sowie Adobe Creative Cloud inkl. Photoshop, Premiere, Audition)
+      - Layout und Publikationsgestaltung: Berichte, Broschüren, Magazine und Bücher (Canva, InDesign)
+      - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
+
+      **Ausgewählte Projekte:**
+      - [PACT-Festival 2023](https://pact-tuebingen.de/)
+      - [Tübinger Kulturnacht 2024](https://www.kulturnetz-tuebingen.de/veranstaltungen/kulturnacht/)
+      - [Von-klein-AUF Festival 2024](https://www.vonkleinauf.org/festival/)
+      - [Kafka lächelt. Kafka- Festival 2024](https://kafka2024.de/programm/kafka-laechelt-kafka-festival-in-tuebingen-von-mai-bis-dezember-2024)
+      - [Alive. Eva Michielin](https://www.evamichielin.com/)
+      - [Jubiläumsausstellung 100 Jahre Ruth Eitle](https://www.frauenprojektezentrum.de/jubilaeumsausstellung-100-jahre-ruth-eitle/)
+      - [Body Voices](https://www.body-voices.org/)
+      - [#KuneFeatureFriday](https://www.instagram.com/explore/search/keyword/?q=%23kunefeaturefriday)
+      - [Hello Together](https://hellotogether.de/)
+
+  - position: Praktikum Kommunikation und PR
+    company_name: Chongqing Guotai Art Center
+    company_url: https://www.trip.com/travel-guide/attraction/chongqing/chongqing-guotai-art-center-15053344/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-03-01
+    date_end: 2021-09-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Planung, Koordination und Organisation von Konzertveranstaltungen für das Blechbläser- und Holzbläserquintett Chongqing in der Musiksaison 2020/2021 – mit durchgehend ausverkauften Aufführungen
+      - Entwicklung und Umsetzung von Kommunikationsmaßnahmen zur Bewerbung von Musik-, Theater- und Tanzveranstaltungen, einschließlich Pressearbeit und Social Media
+      - Erstellung von über 12 Pressemitteilungen mit einer Gesamtreichweite von mehr als 30.000 Aufrufen sowie Betreuung von rund 100 Social-Media-Posts und Kurzvideos
+  
+  - position: Praktikum Operation – OperaNews App
+    company_name: Opera Software Technology (Beijing) Co., Ltd.
+    company_url: https://www.opera.com/
+    company_logo: ''
+    date_start: 2020-09-01
+    date_end: 2021-01-30
+    summary: |
+      - Lokalisierung englischsprachiger Inhalte ins Deutsche sowie sprachliche und inhaltliche Anpassung für den deutschsprachigen Markt
+      - Konzeption und Umsetzung der Pre-Launch-Kampagne, einschließlich Marktanalyse und Content-Strategie
+      Recherche und Qualitätsbewertung deutscher Nachrichtenseiten zur Optimierung der Inhalte und Verbesserung der Modellleistung im Bereich maschinelles Lernen in enger Zusammenarbeit mit den Ingenieurteams
+      - Steigerung des täglichen Nachrichtenaufkommens von null auf über 40.000 Artikel durch gezielte inhaltliche und technische Optimierungen
+      - Sammlung und Auswertung von Nutzerfeedback zur kontinuierlichen Verbesserung der Hauptfunktion „Lokale Nachrichten“
+      - Redaktionelle Betreuung aktueller und Top-Nachrichten für eine optimale Nutzererfahrung
+
+  - position: Praktikum Redaktion Deutsch-Abteilung
+    company_name: Foreign Language Teaching and Research Press
+    company_url: https://www.fltrp.com/en/aboutus/
+    company_logo: ''
+    date_start: 2019-08-01
+    date_end: 2019-09-30
+    summary: |
+      - Lektorat und Korrektorat mehrerer chinesisch-deutscher Lehrwerke
+      - Aufnahme, Bearbeitung und Redaktion von Hörmaterialien für deutsche Lehrbücher
+      - Content-Management und Redaktion deutschsprachiger Inhalte für die Verlags-App Unipus
+
+      **Ausgewählte Projekte:**
+      - Germanistische Linguistik: Theorien und Methoden (Hrsg. von Zhang Yong et al.)
+      - Logisch! neu. Deutsch für Jugendliche (Hrsg. von Stefanie Dengler et al., Übers. von Feng Hu)
+      - Starten wir! (Hrsg. von Rolf Bruseke et al., Übers. von Chen Chen)
+      - Klick auf Deutsch (Hrsg. Jianhua Zhu et al.)
+
+  - position: Praktikum Operation – OperaNews App
+    company_name: Opera Software Technology (Beijing) Co., Ltd.
+    company_url: https://www.opera.com/
+    company_logo: ''
+    date_start: 2016-07-01
+    date_end: 2021-08-30
+    summary: |
+      - Vorbereitung und Organisation der Veranstaltung „BASF – Kids Lab 2016“
+      - Erstellung von Werbematerialien und Gestaltung von Werbeseiten
+      - Übersetzung von Dokumenten in Deutsch, Englisch und Chinesisch
+      - Unterstützung des PR-Direktors in der internen und externen Kommunikation
+      - Pflege von Kontakten sowie Zusammenarbeit mit verschiedenen Medien
+      - Mitwirkung an der Erstellung von Unternehmenspublikationen
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
