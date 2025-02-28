@@ -21,7 +21,7 @@ role: Kultur Management & Public Relations
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Literatur, Kunst,Kommunikation
+  - name: Literatur, Kunst, Kommunikation
     url: 
 
 # Social network links
@@ -43,8 +43,9 @@ education:
     date_start: 2018-10-01
     date_end: 2025-03-31
     summary: |
+      Schwerpunkte:  Literatur- und Filmanalyse (Romantik, Symbolismus, Expressionismus, Popkultur, Unzuverlässiges Erzählen, Tragikomödie, Raum- und Zeittheorie, Psychopathographien), Erzähltheorie, Gender Studies, Kunstgeschichte
+
       (Beurlaubung wegen Krankheit in 2020 und 2022)
-      Schwerpunkte:  (Romantik, Symbolismus, Expressionismus, Popkultur, Unzuverlässiges Erzählen, Tragikomödie, Raum- und Zeittheorie, Psychopathographien), Erzähltheorie, Gender Studies, Kunstgeschichte
     button:
       text: 'Read Papers'
       url: 'https://uni-tuebingen.academia.edu/xinyideng'
@@ -159,7 +160,7 @@ skills:
         description: Word, Excel, PowerPoint, Teams
         percent: 100
         icon: 🌐
-  - name: Hobbies
+  - name: Hobbys
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
