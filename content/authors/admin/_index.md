@@ -74,7 +74,7 @@ work:
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
     button:
      text: 'Portfolio'
-     url: '#Kulturnacht Tübingen 2024'
+     url: '#portfolio'
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
     company_url: https://www.trip.com/travel-guide/attraction/chongqing/chongqing-guotai-art-center-15053344/
@@ -191,7 +191,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: ## Kulturnacht Tübingen 2024
+  - title: Kulturnacht Tübingen 2024
     url: https://www.kulturnetz-tuebingen.de/veranstaltungen/kulturnacht/
     date: '2024-05-11'
     awarder: Festival
