@@ -73,7 +73,7 @@ work:
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
     button:
      text: 'Portfolio'
-     relref: '#Awards'
+    url: '{{< relref "#Awards" >}}'
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
     company_url: https://www.trip.com/travel-guide/attraction/chongqing/chongqing-guotai-art-center-15053344/
@@ -198,9 +198,7 @@ awards:
     summary: |
       Die Kulturnacht Tübingen ist als umfassende9. Kulturnacht fand am 11. Mai 2024 statt und bot mit 153 Programmpunkten an verschiedenen Orten in der gesamten Stadt ein vielfältiges kulturelles und künstlerisches Angebot. Über 100 Künstler:innen präsentierten ein breites Spektrum an Kunstformen – von Tanz, Theater und Musik über Kunstausstellungen, Installationen und Performances bis hin zu interdisziplinären Formaten.
       Im Rahmen der Veranstaltung übernahm ich eigenverantwortlich die redaktionelle und inhaltliche Koordination aller Programmpunkte sowie die Pflege der Veranstaltungswebsite. Zudem war ich als erste Ansprechperson für die gesamte Organisation der Veranstaltungen im Adolf-Schlatter-Haus zuständig. Darüber hinaus war ich in die Bereiche Presse- und Öffentlichkeitsarbeit, Social Media Management (Instagram: @kulturnachttuebingen, Facebook: Kulturnacht Tübingen), Grafikdesign, Aufbau, Dokumentation sowie die Abrechnung eingebunden.
-    button:
-      text: 'Broschüre'
-      url: 'https://www.kulturnetz-tuebingen.de/wp-content/uploads/2024/04/kulturnacht_booklet.pdf'
+      **[📄 Broschüre ansehen](https://www.kulturnetz-tuebingen.de/wp-content/uploads/2024/04/kulturnacht_booklet.pdf)**
   - title: Von klein AUF Festival 2024
     url: https://www.vonkleinauf.org/festival/
     date: '2024-03-08'
@@ -219,9 +217,7 @@ awards:
       Im Rahmen des großangelegten Projekts Kafka2024 wird in Tübingen das Festival „Kafka lächelt“ ausgerichtet – eine Kooperation des tanztheater treibhaus mit KuneArts. Als Teil des übergeordneten Projekts Kafka2024 bringt das Festival Künstler:innen und Institutionen aus Deutschland, der Tschechischen Republik und Österreich zusammen, die sich mit dem literarischen Erbe Franz Kafkas befassen.
       Anlässlich des 100. Todestags von Franz Kafka findet das Festival vom 3. Mai bis 8. Dezember 2024 statt und würdigt den Schriftsteller mit einem vielschichtigen Programm. Neben Theateraufführungen, Schauspiel, Tanzperformances und Filmvorführungen umfasst das Festival Lesungen, Ausstellungen und interdisziplinäre Formate, die Kafkas Werk aus unterschiedlichen Perspektiven beleuchten und seine Aktualität in der Gegenwartskultur reflektieren.
       Im Rahmen des Festivals übernehme ich zentrale Aufgaben in der Organisation und Kommunikation: Kommunikation und PR, Social Media Management, Redaktion & Lektorat, Eventorganisation.
-    button:
-      text: 'Broschüre'
-      url: 'https://tanztheater-treibhaus.de/wp-content/uploads/2024/04/kafka_festival_broschuere_kl.pdf'
+      **[📄 Broschüre ansehen](https://tanztheater-treibhaus.de/wp-content/uploads/2024/04/kafka_festival_broschuere_kl.pdf)**
 ---
 
 Mein Name ist Xinyi Deng. Ich werde in Kürze mein Masterstudium der Deutschen Literatur an der Universität Tübingen abschließen, mit einem Schwerpunkt auf interdisziplinären Studien in Literatur, Film und Kunst. Bereits während meines Studiums habe ich durch verschiedene Praktika und Projekte umfassende Erfahrungen im Kulturmanagement und in der Public Relations gesammelt. Dabei reizt es mich besonders, theoretisches Wissen mit kreativen Ansätzen zu verbinden – sei es bei der Konzeption und Organisation kultureller Veranstaltungen oder in der zielgruppengerechten Kommunikation über verschiedene Medienkanäle. Als verheiratete, lesbische Frau setze ich mich außerdem leidenschaftlich für feministische und queere Themen ein, was auch meine wissenschaftliche und berufliche Arbeit prägt.
