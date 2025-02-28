@@ -119,11 +119,11 @@ work:
       - Klick auf Deutsch (Hrsg. Jianhua Zhu et al.)
 
   - position: Praktikum Operation – OperaNews App
-    company_name: Opera Software Technology (Beijing) Co., Ltd.
-    company_url: https://www.opera.com/
+    company_name: BASF Polyurethanes(Chongqing) Company Ltd.
+    company_url: https://www.basf.com/cn/en/who-we-are/organization/key-production-sites/chongqing
     company_logo: ''
     date_start: 2016-07-01
-    date_end: 2021-08-30
+    date_end: 2016-08-30
     summary: |
       - Vorbereitung und Organisation der Veranstaltung „BASF – Kids Lab 2016“
       - Erstellung von Werbematerialien und Gestaltung von Werbeseiten
@@ -211,7 +211,7 @@ awards:
       Das vierte Von klein AUF Festival fand vom 8. bis 21. März 2024 statt und brachte ein vielfältiges Programm aus Theater und Tanz für die Allerkleinsten (0–6 Jahre) sowie ihre Familien, Erzieher:innen und Freund:innen in Theater, Kulturzentren und Kitas in Tübingen, Reutlingen und Rottenburg. Das Festival ermöglichte Kindern einen spielerischen Zugang zur darstellenden Kunst, inspirierte Erwachsene in ihrer Begleitung und schuf Räume für Kreativität und Austausch.
       Im Rahmen des Festivals übernahm ich das Künstler:innenmanagement, koordinierte den Austausch mit nationalen und internationalen Gästen aus der Schweiz, Polen, Österreich, Dänemark und Nigeria und war für die Planung und Betreuung der Veranstaltungen mitverantwortlich. Zudem kümmerte ich mich um die Presse- und Öffentlichkeitsarbeit, verwaltete die Inhalte der Festival-Website und betreute das Social Media Management auf Instagram (@vonkleinauf_tanzundtheater) und Facebook (Von klein AUF).
       Darüber hinaus war ich in den Ticketverkauf eingebunden, unterstützte die Organisation des Rahmenprogramms mit Workshops, auch für Erwachsene, und wirkte an der Drittmittelakquise mit. Mit meiner Arbeit trug ich dazu bei, das Festival in seiner Reichweite zu stärken, neue Zielgruppen zu erschließen und eine nachhaltige Plattform für frühkindliche Kunstvermittlung zu schaffen.
-  - title: 'OKafka lächelt – Kafka-Festival in Tübingen 2024'
+  - title: 'Kafka lächelt: Kafka-Festival in Tübingen 2024'
     url: https://kafka2024.de/ueber-uns
     date: '2023-01-21'
     awarder: Fastival
