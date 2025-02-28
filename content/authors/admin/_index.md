@@ -59,7 +59,8 @@ education:
       Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN DE-EN), Linguistik, Interkulturelle Kommunikation, Deutsch-chinesische Wirtschaft und Diplomatie, Finnisch
 work:
   - position:  Werkstudentin und Praktikum Kultur Management & Public Relations
-    company_name: "**[KuneArts](https://kunearts.com/)**"
+    company_name: KuneArts
+    company_url: https://kunearts.com/
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
