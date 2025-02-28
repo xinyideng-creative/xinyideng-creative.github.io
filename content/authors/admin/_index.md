@@ -47,7 +47,7 @@ education:
 
       (Beurlaubung wegen Krankheit in 2020 und 2022)
     button:
-      text: 'Read Papers'
+      text: '📝 Wissenschaftliche Arbeiten lesen'
       url: 'https://uni-tuebingen.academia.edu/xinyideng'
   - area:  B.A. Germanistik
     institution:  Beijing Foreign Studies University
@@ -73,8 +73,8 @@ work:
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
 
     button:
-    text: '📂 Portfolio ansehen'
-    url: '#Awards'
+     text: '📂 Portfolio ansehen'
+     url: '#Awards'
 
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
