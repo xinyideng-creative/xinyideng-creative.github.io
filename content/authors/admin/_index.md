@@ -72,7 +72,8 @@ work:
       - Layout und Publikationsgestaltung: Berichte, Broschüren, Magazine und Bücher (Canva, InDesign)
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
     button:
-     text: 'Portfolio'({{  < relref "#Awards" >  }})
+     text: 'Portfolio'
+     url: '#Awards'
 
 
   - position: Praktikum Kommunikation und PR
