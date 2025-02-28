@@ -44,7 +44,7 @@ sections:
   - block: awards
     id: portfolio
     content:
-      title: Portfolio
+      title: Projekt
       username: admin
     
 
