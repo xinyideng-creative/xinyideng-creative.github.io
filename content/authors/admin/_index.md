@@ -74,7 +74,7 @@ work:
 
     button:
     text: '📂 Portfolio ansehen'
-    url: '#portfolio'
+    url: '#Awards'
 
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
