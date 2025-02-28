@@ -27,6 +27,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Berufserfahrung
       username: admin
     design:
       # Hugo date format
@@ -35,15 +36,15 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Fähigkeiten & Hobbys
       username: admin
   - block: languages
     content:
-      title: Languages
+      title: Sprachkenntnisse
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Ausgewählte Projekte
       username: admin
 
 ---
