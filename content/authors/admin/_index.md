@@ -1,6 +1,7 @@
 ---
 # Display name
 title: 邓昕懿
+
  Xinyi Deng
 
 # Name pronunciation (optional)
@@ -199,6 +200,7 @@ awards:
     summary: |
       Die Kulturnacht Tübingen ist als umfassende9. Kulturnacht fand am 11. Mai 2024 statt und bot mit 153 Programmpunkten an verschiedenen Orten in der gesamten Stadt ein vielfältiges kulturelles und künstlerisches Angebot. Über 100 Künstler:innen präsentierten ein breites Spektrum an Kunstformen – von Tanz, Theater und Musik über Kunstausstellungen, Installationen und Performances bis hin zu interdisziplinären Formaten.
       Im Rahmen der Veranstaltung übernahm ich eigenverantwortlich die redaktionelle und inhaltliche Koordination aller Programmpunkte sowie die Pflege der Veranstaltungswebsite. Zudem war ich als erste Ansprechperson für die gesamte Organisation der Veranstaltungen im Adolf-Schlatter-Haus zuständig. Darüber hinaus war ich in die Bereiche Presse- und Öffentlichkeitsarbeit, Social Media Management (Instagram: @kulturnachttuebingen, Facebook: Kulturnacht Tübingen), Grafikdesign, Aufbau, Dokumentation sowie die Abrechnung eingebunden.
+
       **[📄 Broschüre ansehen](https://www.kulturnetz-tuebingen.de/wp-content/uploads/2024/04/kulturnacht_booklet.pdf)**
   - title: Von klein AUF Festival 2024
     url: https://www.vonkleinauf.org/festival/
@@ -218,6 +220,7 @@ awards:
       Im Rahmen des großangelegten Projekts Kafka2024 wird in Tübingen das Festival „Kafka lächelt“ ausgerichtet – eine Kooperation des tanztheater treibhaus mit KuneArts. Als Teil des übergeordneten Projekts Kafka2024 bringt das Festival Künstler:innen und Institutionen aus Deutschland, der Tschechischen Republik und Österreich zusammen, die sich mit dem literarischen Erbe Franz Kafkas befassen.
       Anlässlich des 100. Todestags von Franz Kafka findet das Festival vom 3. Mai bis 8. Dezember 2024 statt und würdigt den Schriftsteller mit einem vielschichtigen Programm. Neben Theateraufführungen, Schauspiel, Tanzperformances und Filmvorführungen umfasst das Festival Lesungen, Ausstellungen und interdisziplinäre Formate, die Kafkas Werk aus unterschiedlichen Perspektiven beleuchten und seine Aktualität in der Gegenwartskultur reflektieren.
       Im Rahmen des Festivals übernehme ich zentrale Aufgaben in der Organisation und Kommunikation: Kommunikation und PR, Social Media Management, Redaktion & Lektorat, Eventorganisation.
+
       **[📄 Broschüre ansehen](https://tanztheater-treibhaus.de/wp-content/uploads/2024/04/kafka_festival_broschuere_kl.pdf)**
 ---
 

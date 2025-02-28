@@ -43,7 +43,7 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Portfolio{#portfolio}
+      title: Portfolio
       username: admin
     id: portfolio
 
