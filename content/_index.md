@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.png
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -37,12 +37,13 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
   - block: languages
     content:
       title: Languages
       username: admin
+  - block: awards
+    content:
+      title: Awards
+      username: admin
+
 ---

@@ -168,27 +168,27 @@ skills:
         percent: 100
         icon: 🎀
       - name: Film
-        description: Komödie, Science-Fiction, Queer Cinema, Expressionistischer Film, Anime
+        description: Science-Fiction, Queer Cinema, Anime
         percent: 100
         icon: 🎬
       - name: Sport
-        description: Aqua-Zumba, Aqua-Fitness, schwimmen, Volleyball, Fitness Boxing
+        description: Aqua-Fitness, Volleyball, Fitness Boxing
         percent: 70
         icon: 🏊
       - name: Kochen & Backen
-        description: Sichuan-Küche, Traditionelle chinesische Backwaren, Torten, Desserts
+        description: Sichuan-Küche, Torten, Desserts
         percent: 100
         icon: 🍰
 
 languages:
-  - name: Chinesisch
-    percent: 100
-  - name: Deutsch
-    percent: 80
-  - name: Englisch
-    percent: 80
   - name: Finnisch
     percent: 25
+  - name: Deutsch
+    percent: 80
+  - name: Chinesisch
+    percent: 100
+    - name: Englisch
+    percent: 80
   - name: Japanisch
     percent: 25
 
