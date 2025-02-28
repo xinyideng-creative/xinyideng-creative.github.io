@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Xinyi Deng 邓昕懿
+title: 邓昕懿
+ Xinyi Deng
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -73,7 +74,7 @@ work:
       - Web- und Content-Management: Pflege, Aktualisierung und Optimierung von Websites (WordPress, Elementor, Jimdo)
     button:
      text: 'Portfolio'
-     url: '{{< relref "#Awards" >}}'
+     url: '#Kulturnacht Tübingen 2024'
   - position: Praktikum Kommunikation und PR
     company_name: Chongqing Guotai Art Center
     company_url: https://www.trip.com/travel-guide/attraction/chongqing/chongqing-guotai-art-center-15053344/
@@ -190,7 +191,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: "Kulturnacht Tübingen 2024 {#Awards}"
+  - title: ## Kulturnacht Tübingen 2024
     url: https://www.kulturnetz-tuebingen.de/veranstaltungen/kulturnacht/
     date: '2024-05-11'
     awarder: Festival
