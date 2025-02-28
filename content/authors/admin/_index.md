@@ -187,7 +187,7 @@ languages:
     percent: 80
   - name: Chinesisch
     percent: 100
-    - name: Englisch
+  - name: Englisch
     percent: 80
   - name: Japanisch
     percent: 25
