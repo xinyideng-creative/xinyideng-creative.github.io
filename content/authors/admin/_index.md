@@ -44,27 +44,16 @@ education:
     date_end: 2025-03-31
     summary: |
       (Beurlaubung wegen Krankheit in 2020 und 2022)
-      Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
+      Schwerpunkte:  (Romantik, Symbolismus, Expressionismus, Popkultur, Unzuverlässiges Erzählen, Tragikomödie, Raum- und Zeittheorie, Psychopathographien), Erzähltheorie, Gender Studies, Kunstgeschichte
     button:
       text: 'Read Papers'
       url: 'https://uni-tuebingen.academia.edu/xinyideng'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area:  B.A. Germanistik
     institution:  Beijing Foreign Studies University
     date_start: 2015-01-01
     date_end: 2018-06-30
     summary: |
-      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN DE-EN), Linguistik, Interkulturelle Kommunikation
+      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN DE-EN), Linguistik, Interkulturelle Kommunikation, Deutsch-chinesische Wirtschaft und Diplomatie, Finnisch
 work:
   - position:  Werkstudentin und Praktikum Kultur Management & Public Relations
     company_name: KuneArts
@@ -152,43 +141,55 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: EDV-Kenntnisse
     items:
-      - name: Python
-        description: ''
+      - name: Mediengestaltung
+        description: Canva, Adobe Creative Cloud (Photoshop, Premiere, InDesign, Audition), CapCut
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
+        icon: 📷
+      - name: Social Media
+        description: Instagram, Facebook, TikTok, X, RedNote, WeChat
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
+        icon: 🤳
+      - name: CMS
+        description: WordPress, Elementor, Jimdo
+        percent: 80
+        icon: 🌐
+      - name: Microsoft Office
+        description: Word, Excel, PowerPoint, Teams
+        percent: 100
+        icon: 🌐
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Fashion
+        description: Lolita-Mode, Hanfu (die traditionelle chinesische Kleidung), Vintage
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: 🎀
+      - name: Film
+        description: Komödie, Science-Fiction, Queer Cinema, Expressionistischer Film, Anime
+        percent: 100
+        icon: 🎬
+      - name: Sport
+        description: Aqua-Zumba, Aqua-Fitness, schwimmen, Volleyball, Fitness Boxing
+        percent: 70
+        icon: 🏊
+      - name: Kochen & Backen
+        description: Sichuan-Küche, Traditionelle chinesische Backwaren, Torten, Desserts
+        percent: 100
+        icon: 🍰
 
 languages:
-  - name: English
+  - name: Chinesisch
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Deutsch
+    percent: 80
+  - name: Englisch
+    percent: 80
+  - name: Finnisch
+    percent: 25
+  - name: Japanisch
     percent: 25
 
 # Awards.
@@ -223,4 +224,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Mein Name ist Xinyi Deng. Ich werde in Kürze mein Masterstudium der Deutschen Literatur an der Universität Tübingen abschließen, mit einem Schwerpunkt auf interdisziplinären Studien in Literatur, Film und Kunst. Bereits während meines Studiums habe ich durch verschiedene Praktika und Projekte umfassende Erfahrungen im Kulturmanagement und in der Public Relations gesammelt. Dabei reizt es mich besonders, theoretisches Wissen mit kreativen Ansätzen zu verbinden – sei es bei der Konzeption und Organisation kultureller Veranstaltungen oder in der zielgruppengerechten Kommunikation über verschiedene Medienkanäle. Als verheiratete, lesbische Frau setze ich mich außerdem leidenschaftlich für feministische und queere Themen ein, was auch meine wissenschaftliche und berufliche Arbeit prägt.
