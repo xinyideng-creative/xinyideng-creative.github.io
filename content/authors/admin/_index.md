@@ -118,7 +118,7 @@ work:
       - Starten wir! (Hrsg. von Rolf Bruseke et al., Übers. von Chen Chen)
       - Klick auf Deutsch (Hrsg. Jianhua Zhu et al.)
 
-  - position: Praktikum Operation – OperaNews App
+  - position: Praktikum Kommunikation und Public Relations
     company_name: BASF Polyurethanes(Chongqing) Company Ltd.
     company_url: https://www.basf.com/cn/en/who-we-are/organization/key-production-sites/chongqing
     company_logo: ''
