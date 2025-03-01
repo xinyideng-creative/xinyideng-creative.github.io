@@ -96,7 +96,7 @@ work:
     summary: |
       - Lokalisierung englischsprachiger Inhalte ins Deutsche sowie sprachliche und inhaltliche Anpassung für den deutschsprachigen Markt
       - Konzeption und Umsetzung der Pre-Launch-Kampagne, einschließlich Marktanalyse und Content-Strategie
-      Recherche und Qualitätsbewertung deutscher Nachrichtenseiten zur Optimierung der Inhalte und Verbesserung der Modellleistung im Bereich maschinelles Lernen in enger Zusammenarbeit mit den Ingenieurteams
+      - Recherche und Qualitätsbewertung deutscher Nachrichtenseiten zur Optimierung der Inhalte und Verbesserung der Modellleistung im Bereich maschinelles Lernen in enger Zusammenarbeit mit den Ingenieurteams
       - Steigerung des täglichen Nachrichtenaufkommens von null auf über 40.000 Artikel durch gezielte inhaltliche und technische Optimierungen
       - Sammlung und Auswertung von Nutzerfeedback zur kontinuierlichen Verbesserung der Hauptfunktion „Lokale Nachrichten“
       - Redaktionelle Betreuung aktueller und Top-Nachrichten für eine optimale Nutzererfahrung
@@ -113,10 +113,10 @@ work:
       - Content-Management und Redaktion deutschsprachiger Inhalte für die Verlags-App Unipus
 
       **Ausgewählte Projekte:**
-      - Germanistische Linguistik: Theorien und Methoden (Hrsg. von Zhang Yong et al.)
-      - Logisch! neu. Deutsch für Jugendliche (Hrsg. von Stefanie Dengler et al., Übers. von Feng Hu)
-      - Starten wir! (Hrsg. von Rolf Bruseke et al., Übers. von Chen Chen)
-      - Klick auf Deutsch (Hrsg. Jianhua Zhu et al.)
+      - Zhang, Yong et al. (Hrsg.): Germanistische Linguistik: Theorien und Methoden.
+      - Dengler, Stefanie et al. (Hrsg.): Logisch! neu. Deutsch für Jugendliche. Übers. von Feng Hu.
+      - Bruseke, Rolf et al. (Hrsg.): Starten wir!. Übers. von Chen Chen. 
+      - Zhu, Jianhua et al. (Hrsg.): Klick auf Deutsch. 
 
   - position: Praktikum Kommunikation und Public Relations
     company_name: BASF Polyurethanes(Chongqing) Company Ltd.
