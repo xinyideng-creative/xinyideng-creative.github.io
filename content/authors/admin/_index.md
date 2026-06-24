@@ -45,9 +45,9 @@ education:
     date_start: 2026-06-22
     date_end: 
     summary: |
-      Dissertationsthema: Unzuverlässiges Erzählen und lesbisches Begehren im Film: (Un-)Sichtbarkeit, Ambiguität und Subversion
-      Forschungsschwerpunkte: Filmnarratologie, Queer Studies, Asiatisches Kino
-      Betreuer: Jun.-Prof. Dr. Matthias Grotkopp
+        - Dissertationsthema: Unzuverlässiges Erzählen und lesbisches Begehren im Film: (Un-)Sichtbarkeit, Ambiguität und Subversion
+        - Forschungsschwerpunkte: Filmnarratologie, Queer Studies, Asiatisches Kino
+        - Betreuer: Jun.-Prof. Dr. Matthias Grotkopp
   - area: M.A. Filmwissenschaft
     institution: Freie Universität Berlin
     date_start: 2026-10-01
@@ -58,14 +58,14 @@ education:
     date_start: 2018-10-01
     date_end: 2025-09-30
     summary: |
-      Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
-      Masterarbeit: Maschinensein, Menschsein, Frausein: Fembots in Literatur und Film – Jean Paul »Einfältige aber gutgemeinte Biographie einer neuen angenehmen Frau von bloßem Holz« (1789), E. T. A. Hoffmann »Der Sandmann« (1816) und Fritz Lang »Metropolis« (1927)
-      Ausgewählte Oberseminararbeiten:
-       • Unzuverlässiges Erzählen und Lesbisches Erzählen in David Lynchs Mulholland Drive (2001)
-       • Symbolische Grenzübertritte in Fritz Langs Metropolis (1927)
-       • Parasite (2019) von Bong Joon Ho: Eine Gesellschaftskritik in tragikomischer Inszenierung
-       • Verfilmungen von Nussknacker und Mausekönig: Ein Vergleich zwischen E.T.A. Hoffmanns Nussknacker und Mausekönig (1816) und Barbie in the Nutcracker (2001)
-      (Beurlaubung wegen Krankheit in 2020 und 2022)
+        - Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
+        - Masterarbeit: Maschinensein, Menschsein, Frausein: Fembots in Literatur und Film – Jean Paul »Einfältige aber gutgemeinte Biographie einer neuen angenehmen Frau von bloßem Holz« (1789), E. T. A. Hoffmann »Der Sandmann« (1816) und Fritz Lang »Metropolis« (1927)
+        - Ausgewählte Oberseminararbeiten:
+         - • Unzuverlässiges Erzählen und Lesbisches Erzählen in David Lynchs Mulholland Drive (2001)
+         - • Symbolische Grenzübertritte in Fritz Langs Metropolis (1927)
+         - • Parasite (2019) von Bong Joon Ho: Eine Gesellschaftskritik in tragikomischer Inszenierung
+         - • Verfilmungen von Nussknacker und Mausekönig: Ein Vergleich zwischen E.T.A. Hoffmanns Nussknacker und Mausekönig (1816) und Barbie in the Nutcracker (2001)
+        - (Beurlaubung wegen Krankheit in 2020 und 2022)
     button:
       text: 'Wissenschaftliche Arbeiten'
       url: 'https://fu-berlin.academia.edu/XinyiDeng'
@@ -74,12 +74,12 @@ education:
     date_start: 2015-01-01
     date_end: 2018-06-30
     summary: |
-      Direktaufnahme ohne Teilnahme an der chinesischen Hochschulaufnahmeprüfung (Gaokao)
-      Einjähriger Abschluss vor der Regelstudienzeit
+        - Direktaufnahme ohne Teilnahme an der chinesischen Hochschulaufnahmeprüfung (Gaokao)
+        - Einjähriger Abschluss vor der Regelstudienzeit
       
-      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN-DE-EN), Linguistik, Interkulturelle Kommunikation
-      Aktivitäten:Chefredakteurin der studentischen Hochschulzeitschrift „Eiche“
-      Auszeichnung: Social Service Award (2017)
+        - Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN-DE-EN), Linguistik, Interkulturelle Kommunikation
+        - Aktivitäten:Chefredakteurin der studentischen Hochschulzeitschrift „Eiche“
+        - Auszeichnung: Social Service Award (2017)
 work:
   - position:  Werkstudentin und Praktikum Kultur Management & Public Relations
     company_name: KuneArts
