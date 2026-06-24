@@ -19,11 +19,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Kultur Management & Public Relations
+role: Film Studies PhD Candidate at FU Berlin
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Literatur, Kunst, Kommunikation
+  - name: Arts & Cultural Management
     url: 
 
 # Social network links
@@ -40,30 +40,53 @@ profiles:
     url: https://www.instagram.com/xinyi.deng.lala/
 
 education:
+  - area:  Promotion Filmwissenschaft
+    institution:  Freie Universität Berlin
+    date_start: 2026-06-22
+    date_end: 
+    summary: |
+      Dissertationsthema: Unzuverlässiges Erzählen und lesbisches Begehren im Film: (Un-)Sichtbarkeit, Ambiguität und Subversion
+      Forschungsschwerpunkte: Filmnarratologie, Queer Studies, Asiatisches Kino
+      Betreuer: Jun.-Prof. Dr. Matthias Grotkopp
+  - area: M.A. Filmwissenschaft
+    institution: Freie Universität Berlin
+    date_start: 2026-10-01
+    date_end: 2026-06-20
+    summary: |
   - area: M.A. Deutsche Literatur
     institution: Universität Tübingen
     date_start: 2018-10-01
-    date_end: 2025-03-31
+    date_end: 2025-09-31
     summary: |
-      Schwerpunkte:  Literatur- und Filmanalyse (Romantik, Symbolismus, Expressionismus, Popkultur, Unzuverlässiges Erzählen, Tragikomödie, Raum- und Zeittheorie, Psychopathographien), Erzähltheorie, Gender Studies, Kunstgeschichte
-
+      Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
+      Masterarbeit: Maschinensein, Menschsein, Frausein: Fembots in Literatur und Film – Jean Paul »Einfältige aber gutgemeinte Biographie einer neuen angenehmen Frau von bloßem Holz« (1789), E. T. A. Hoffmann »Der Sandmann« (1816) und Fritz Lang »Metropolis« (1927)
+      Ausgewählte Oberseminararbeiten:
+       • Unzuverlässiges Erzählen und Lesbisches Erzählen in David Lynchs Mulholland Drive (2001)
+       • Symbolische Grenzübertritte in Fritz Langs Metropolis (1927)
+       • Parasite (2019) von Bong Joon Ho: Eine Gesellschaftskritik in tragikomischer Inszenierung
+       • Verfilmungen von Nussknacker und Mausekönig: Ein Vergleich zwischen E.T.A. Hoffmanns Nussknacker und Mausekönig (1816) und Barbie in the Nutcracker (2001)
       (Beurlaubung wegen Krankheit in 2020 und 2022)
     button:
       text: 'Wissenschaftliche Arbeiten'
-      url: 'https://uni-tuebingen.academia.edu/xinyideng'
+      url: 'https://fu-berlin.academia.edu/XinyiDeng'
   - area:  B.A. Germanistik
     institution:  Beijing Foreign Studies University
     date_start: 2015-01-01
     date_end: 2018-06-30
     summary: |
-      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN DE-EN), Linguistik, Interkulturelle Kommunikation, Deutsch-chinesische Wirtschaft und Diplomatie, Finnisch
+      Direktaufnahme ohne Teilnahme an der chinesischen Hochschulaufnahmeprüfung (Gaokao)
+      Einjähriger Abschluss vor der Regelstudienzeit
+      
+      Schwerpunkte: Deutsche Literatur, Übersetzen und Dolmetschen (CN-DE-EN), Linguistik, Interkulturelle Kommunikation
+      Aktivitäten:Chefredakteurin der studentischen Hochschulzeitschrift „Eiche“
+      Auszeichnung: Social Service Award (2017)
 work:
   - position:  Werkstudentin und Praktikum Kultur Management & Public Relations
     company_name: KuneArts
     company_url: https://kunearts.com/
     company_logo: ''
     date_start: 2023-09-01
-    date_end: ''
+    date_end: 2025-05-01
     summary: |2-
       - Kommunikation und PR: Entwicklung und Umsetzung von Kommunikationsstrategien, Medien- und Pressearbeit, Kampagnenplanung
       - Veranstaltungsmanagement: Konzeption, Planung und Durchführung von Festivals, Ausstellungen und Kulturprojekten inkl. Logistik, Ablaufkoordination, Personalplanung, Gästebetreuung sowie Dokumentation und Nachbereitung
@@ -224,4 +247,5 @@ awards:
       **[📄 Broschüre ansehen](https://tanztheater-treibhaus.de/wp-content/uploads/2024/04/kafka_festival_broschuere_kl.pdf)**
 ---
 
-Mein Name ist Xinyi Deng. Ich werde in Kürze mein Masterstudium der Deutschen Literatur an der Universität Tübingen abschließen, mit einem Schwerpunkt auf interdisziplinären Studien in Literatur, Film und Kunst. Bereits während meines Studiums habe ich durch verschiedene Praktika und Projekte umfassende Erfahrungen im Kulturmanagement und in der Public Relations gesammelt. Dabei reizt es mich besonders, theoretisches Wissen mit kreativen Ansätzen zu verbinden – sei es bei der Konzeption und Organisation kultureller Veranstaltungen oder in der zielgruppengerechten Kommunikation über verschiedene Medienkanäle. Als verheiratete, lesbische Frau setze ich mich außerdem leidenschaftlich für feministische und queere Themen ein, was auch meine wissenschaftliche und berufliche Arbeit prägt.
+Mein Name ist Xinyi Deng. Ich promoviere in Filmwissenschaft an der Freien Universität Berlin. Zuvor habe ich mein Masterstudium der Deutschen Literatur an der Universität Tübingen mit sehr gutem Ergebnis abgeschlossen. Mein wissenschaftliches Interesse gilt besonders Filmgeschichte, queer-feministischer Filmtheorie, Narration und internationaler Filmkultur.
+Neben meinem Studium habe ich praktische Erfahrungen im Kulturmanagement, in der Öffentlichkeitsarbeit und in der redaktionellen Kommunikation gesammelt. Besonders interessiert mich die Verbindung von wissenschaftlicher Perspektive, kuratorischer Praxis und zielgruppengerechter Kulturvermittlung. Langfristig möchte ich im Bereich Filmkultur, Filmvermittlung und kulturelle Öffentlichkeitsarbeit arbeiten.
