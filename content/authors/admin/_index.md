@@ -56,7 +56,7 @@ education:
   - area: M.A. Deutsche Literatur
     institution: Universität Tübingen
     date_start: 2018-10-01
-    date_end: 2025-09-31
+    date_end: 2025-09-30
     summary: |
       Schwerpunkte: Literatur- und Filmanalyse, Erzähltheorie, Gender Studies, Kunstgeschichte
       Masterarbeit: Maschinensein, Menschsein, Frausein: Fembots in Literatur und Film – Jean Paul »Einfältige aber gutgemeinte Biographie einer neuen angenehmen Frau von bloßem Holz« (1789), E. T. A. Hoffmann »Der Sandmann« (1816) und Fritz Lang »Metropolis« (1927)
